@@ -26,7 +26,7 @@ Embedding Visualizer is an interactive tool that brings your text embeddings to 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/embedding-visualizer.git
+   git clone https://github.com/balgan/embeddingvisualizer.git
    ```
 
 2. Install dependencies:
@@ -35,7 +35,7 @@ Embedding Visualizer is an interactive tool that brings your text embeddings to 
    npm install
    ```
 
-3. Set up your OpenAI API key:
+3. Set up your OpenAI API key (not needed you can just paste it in the UI if you prefer not to set it up):
    - Create a `.env` file in the root directory
    - Add your API key: `REACT_APP_OPENAI_API_KEY=your_api_key_here`
 
